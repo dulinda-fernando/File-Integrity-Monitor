@@ -1,0 +1,8 @@
+
+{
+    "protected_directory": "protected_files",
+    "baseline_file": "baseline.json",
+    "log_directory": "logs",
+    "key_file": "baseline.key",
+    "signature_file": "baseline.sig"
+}

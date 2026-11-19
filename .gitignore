@@ -1,0 +1,20 @@
+# Secret HMAC key
+baseline.key
+
+# Local baseline and signature
+baseline.json
+baseline.sig
+
+# Audit logs
+logs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Temporary backup files
+*_backup.*
